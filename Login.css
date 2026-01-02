@@ -1,0 +1,11 @@
+.bg-one{
+    display: block;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background: url("/bglogin.svg") transparent;
+    background-size: cover;
+    z-index: -1;
+}
